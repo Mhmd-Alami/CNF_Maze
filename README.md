@@ -59,7 +59,7 @@ CNF_Maze/
 ├── gui.py           # Pygame-based GUI to visualize maze, belief, and handle user input
 ├── logic.py         # CNF-based localization knowledge base (LocalizationKB)
 ├── maze.txt         # Maze layout (0 = free cell, 1 = wall)
-├── گزارش پروژه AI.pdf  # Project report in Persian (design and explanation)
+├── report AI maze project.pdf  # Project report in Persian (design and explanation)
 └── README.md        # This file
 ```
 
